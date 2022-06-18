@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Movie Land React Application
 
 MovieLand is a basic react webpage which displays list of movies and the user can filter out their desired choice.
 
