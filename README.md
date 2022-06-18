@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+MovieLand is a basic react webpage which displays list of movies and the user can filter out their desired choice.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
